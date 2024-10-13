@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Web Scraper", "Web Scraper\Web Scraper.pyproj", "{C9342210-89EE-4F7C-8DDF-28CEBB46987E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9342210-89EE-4F7C-8DDF-28CEBB46987E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9342210-89EE-4F7C-8DDF-28CEBB46987E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {070E1403-ADFD-4A04-A554-39730F23A879}
+	EndGlobalSection
+EndGlobal
